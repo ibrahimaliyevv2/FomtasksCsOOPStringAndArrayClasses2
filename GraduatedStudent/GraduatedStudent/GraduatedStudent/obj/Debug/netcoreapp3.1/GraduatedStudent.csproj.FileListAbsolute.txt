@@ -1,0 +1,14 @@
+C:\Users\ibrahimaliyevv2\source\repos\FomtasksCsOOPStringAndArrayClasses2\GraduatedStudent\GraduatedStudent\GraduatedStudent\bin\Debug\netcoreapp3.1\GraduatedStudent.exe
+C:\Users\ibrahimaliyevv2\source\repos\FomtasksCsOOPStringAndArrayClasses2\GraduatedStudent\GraduatedStudent\GraduatedStudent\bin\Debug\netcoreapp3.1\GraduatedStudent.deps.json
+C:\Users\ibrahimaliyevv2\source\repos\FomtasksCsOOPStringAndArrayClasses2\GraduatedStudent\GraduatedStudent\GraduatedStudent\bin\Debug\netcoreapp3.1\GraduatedStudent.runtimeconfig.json
+C:\Users\ibrahimaliyevv2\source\repos\FomtasksCsOOPStringAndArrayClasses2\GraduatedStudent\GraduatedStudent\GraduatedStudent\bin\Debug\netcoreapp3.1\GraduatedStudent.runtimeconfig.dev.json
+C:\Users\ibrahimaliyevv2\source\repos\FomtasksCsOOPStringAndArrayClasses2\GraduatedStudent\GraduatedStudent\GraduatedStudent\bin\Debug\netcoreapp3.1\GraduatedStudent.dll
+C:\Users\ibrahimaliyevv2\source\repos\FomtasksCsOOPStringAndArrayClasses2\GraduatedStudent\GraduatedStudent\GraduatedStudent\bin\Debug\netcoreapp3.1\GraduatedStudent.pdb
+C:\Users\ibrahimaliyevv2\source\repos\FomtasksCsOOPStringAndArrayClasses2\GraduatedStudent\GraduatedStudent\GraduatedStudent\obj\Debug\netcoreapp3.1\GraduatedStudent.csproj.AssemblyReference.cache
+C:\Users\ibrahimaliyevv2\source\repos\FomtasksCsOOPStringAndArrayClasses2\GraduatedStudent\GraduatedStudent\GraduatedStudent\obj\Debug\netcoreapp3.1\GraduatedStudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahimaliyevv2\source\repos\FomtasksCsOOPStringAndArrayClasses2\GraduatedStudent\GraduatedStudent\GraduatedStudent\obj\Debug\netcoreapp3.1\GraduatedStudent.AssemblyInfoInputs.cache
+C:\Users\ibrahimaliyevv2\source\repos\FomtasksCsOOPStringAndArrayClasses2\GraduatedStudent\GraduatedStudent\GraduatedStudent\obj\Debug\netcoreapp3.1\GraduatedStudent.AssemblyInfo.cs
+C:\Users\ibrahimaliyevv2\source\repos\FomtasksCsOOPStringAndArrayClasses2\GraduatedStudent\GraduatedStudent\GraduatedStudent\obj\Debug\netcoreapp3.1\GraduatedStudent.csproj.CoreCompileInputs.cache
+C:\Users\ibrahimaliyevv2\source\repos\FomtasksCsOOPStringAndArrayClasses2\GraduatedStudent\GraduatedStudent\GraduatedStudent\obj\Debug\netcoreapp3.1\GraduatedStudent.dll
+C:\Users\ibrahimaliyevv2\source\repos\FomtasksCsOOPStringAndArrayClasses2\GraduatedStudent\GraduatedStudent\GraduatedStudent\obj\Debug\netcoreapp3.1\GraduatedStudent.pdb
+C:\Users\ibrahimaliyevv2\source\repos\FomtasksCsOOPStringAndArrayClasses2\GraduatedStudent\GraduatedStudent\GraduatedStudent\obj\Debug\netcoreapp3.1\GraduatedStudent.genruntimeconfig.cache
